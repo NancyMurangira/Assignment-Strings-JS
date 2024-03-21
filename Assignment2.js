@@ -30,8 +30,8 @@ arra.forEach(f =>{
     }
     else(duplica.push(f));
 });
-console.log({removeDuplicate});
-console.log({duplicate});
+console.log({removeDuplica});
+console.log({duplica});
 
 // Write a JS script to search for the following word in the array."food"If the word is present, return it else return "the search word was not found"let arr5 = ["the", "way", "x", 4];
 
