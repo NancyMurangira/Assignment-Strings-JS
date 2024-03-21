@@ -59,3 +59,9 @@ function titleCase(str) {
 }
 console.log(titleCase("A wonderful world"));
 
+
+let d = "A wonderful world"
+function titlecase(str){
+    return str.toLowerCase().replace(/\b\w/g,s=>s.toUpperCase())
+}
+console.log(titlecase('A Wonderful world'))
