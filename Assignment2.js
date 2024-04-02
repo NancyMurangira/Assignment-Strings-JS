@@ -47,7 +47,7 @@ else{
 
 // Write a JS script to sort the following string:let word = "renniw"
 
-let str=  "renniw";
+let str= "renniw";
 function newSort (word) {
     return word.split("")
             .sort()
